@@ -11,7 +11,7 @@ public class HelloController {
 
     @RequestMapping("/")
     public String greetMe(){
-        return "Qlective Kerence is best in the market"!!
+        return "Qlective Kerence is best in the market";
     }
 
 }
